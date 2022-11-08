@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Raunakk Banerjee
-- 👀 I’m interested in Machine Learning, especially Reinforcement Learning.
-- 🌱 I have a bachelors degree in Engineering Physics from Indian Institute of Technology Guwahati
+- I’m interested in Machine Learning, especially Reinforcement Learning.
+- I have a bachelors degree in Engineering Physics from Indian Institute of Technology Guwahati
+- I am currently pursuing an Msc in Machine Learning from University College London
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 You can reach me by email at raunakkbanerjee29@gmail.com or twitter at @BanerjeeRaunakk or drop me a dm on Facebook.
 
